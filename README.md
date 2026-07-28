@@ -61,7 +61,7 @@ Projeyi bilgisayarınıza indirin ve dizine gidin:
 
 ```bash
 git clone https://github.com/ilahici-tg/Telebot_Suite
-cd s-main
+cd Telebot_Suite
 ```
 
 ---
